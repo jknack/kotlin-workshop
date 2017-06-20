@@ -8,7 +8,7 @@ import org.jooby.*
 class App : Kooby({
 
   get {
-    "Hola neardear.la"
+    "Hola nerdear.la"
   }
 
 })
