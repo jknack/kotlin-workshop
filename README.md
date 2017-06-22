@@ -1,6 +1,6 @@
 # Kotlin workshop con Jooby
 
-[Kotlin](http://kotlinlang.org/) web application workshop utlizando [Jooby](http://jooby.org) para [nerdear.la 2017](https://nerdear.la).
+[Kotlin](http://kotlinlang.org/) web application workshop utilizando [Jooby](http://jooby.org) para [nerdear.la 2017](https://nerdear.la).
 
 En este workshop vamos a crear un JSON API para una lista de tareas/pendientes (TODO items).
 
@@ -67,7 +67,8 @@ En la consola aparecera un mensaje similar a este:
 
 El ejercicio completo se encuentra en el branch `final`.
 
-## ejercicio adicionales
+## ejercicios para la casa
 
-* Imprimir "neardear.la" utilizando ascii art banners.
+* Imprimir "nerdear.la" utilizando [ascii art banner](http://jooby.org/doc/banner). Utilizar [jooby-banner](http://jooby.org/doc/banner)
+* Reemplazar la estrucutura de datos en memoria por [una base de datos](http://jooby.org/doc/jdbc). Utilizar [jooby-jdbc](http://jooby.org/doc/banner)
 
